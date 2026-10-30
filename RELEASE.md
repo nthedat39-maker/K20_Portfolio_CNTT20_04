@@ -4,7 +4,7 @@
 
 - **Sinh viên:** Nguyễn Thế Đạt
 - **MSSV:** 2071020223
-- **Môn học:** FIT4014 – Đại học Đại Nam
+- **Môn học:** Thiết kế web và triển khai hệ thông phần mềm – Đại học Đại Nam
 - **Trạng thái:** Hoàn thành
 
 ## Nội dung
