@@ -7,5 +7,7 @@ dụng thực tập.
 - [link GitHub](https://github.com/nthedat39-maker/K20_Portfolio_CNTT20_04)
 
 Cách mở: 
+
  Bước 1: nhấn vào "xem portfolio trên github pages"
+ 
  Bước 2: ấn vào "xem dự án của tôi"
