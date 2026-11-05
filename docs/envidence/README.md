@@ -1,0 +1,3 @@
+- Minh chứng 1: Mở website công khai tại https://nthedat39-maker.github.io/K20_Portfolio_CNTT20_04/.
+- Minh chứng 2: Bấm vào menu để xem các dự án trên website.
+- Minh chứng 3: Mở website trên điện thoại để kiểm tra giao diện.
